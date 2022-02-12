@@ -1,1 +1,1 @@
-# nfa-from-re
+# construction of nfa from re in python
